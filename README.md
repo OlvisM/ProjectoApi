@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
-**Este proyecto esta hecho con la finalidad de aprender a consumir una Api, usar tailwindcss y Aprender TypeScript.**
+**Este proyecto esta hecho con la finalidad de aprender a consumir una Api, usar tailwindcss y Aprender TypeScript.
+Fue algo complicado para mi ya que no tenia mucho conocimiento en el tema de back pero con la documentacion y ChatGPT pude logra hacer esto.**
 
 # Pantalla principal.
 ![image](https://github.com/user-attachments/assets/0fe9bc92-e301-4a83-90a8-58ef79167dab)
